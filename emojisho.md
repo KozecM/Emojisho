@@ -37,13 +37,14 @@
 ## R
 
 ## S
-* ### Sus:
-	
-	![sus](/Emojis/sus.png)  
+
+* ### ![sus](/Emojis/sus.png)  Sus:
 	
 	The word sus used for when something is suspicious
 		
 		- Notes: Originated from the game Among Us
+
+
 ## T
 
 ## U
