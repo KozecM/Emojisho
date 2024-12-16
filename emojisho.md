@@ -4,7 +4,7 @@
 
 ## B
 
-* ### <img src="/Emojis/beans.png" alt="beans" width="100"/>  Beans:
+* ### <img src="/Emojis/beans.png" alt="beans" width="75"/>  Beans:
 	
 	A can of beans fallen over used usually when beans are mentioned.
 		
