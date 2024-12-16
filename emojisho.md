@@ -6,7 +6,7 @@
 
 * ### <img src="/Emojis/beans.png" alt="beans" width="75"/>  Beans:
 	
-	:beans:
+	':beans:'
 
 	A can of beans fallen over used usually when beans are mentioned.
 		
