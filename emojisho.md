@@ -97,7 +97,7 @@
 
 ## S
 
-* ### <img src="/Emojis/sus.jpg" alt="sus" width="75"/> Sus:
+* ### <img src="/Emojis/sus.png" alt="sus" width="75"/> Sus:
 
 	:sus:
 	
