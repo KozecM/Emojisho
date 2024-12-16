@@ -4,7 +4,7 @@
 
 ## B
 
-* ### <img src="/Emojis/beans.png" alt="beans" width="75"/>  Beans:
+* ### <img src="/Emojis/beans.png" alt="beans" width="50"/>  Beans:
 	
 	':beans:'
 
@@ -12,7 +12,7 @@
 		
 		- Notes: BEANS
 
-* ### <img src="/Emojis/boris_sucks.png" alt="Boris Sucks" width="75"/> Boris Sucks:
+* ### <img src="/Emojis/boris_sucks.png" alt="Boris Sucks" width="50"/> Boris Sucks:
 	
 	:boris_sucks:
 
@@ -24,7 +24,7 @@
 
 ## D
 
-* ### <img src="/Emojis/da_wae.png" alt="da wae" width="75"/> Da wea:
+* ### <img src="/Emojis/da_wae.png" alt="da wae" width="50"/> Da wea:
 	
 	:da_wae:
 
@@ -35,7 +35,7 @@
 			* Do you know da wae? 
 			* Originally from Who Killed Captain Alex. Popularized on VRchat
 
-* ### <img src="/Emojis/ded.png" alt="ded" width="75"/>! Ded:
+* ### <img src="/Emojis/ded.png" alt="ded" width="50"/>! Ded:
 	
 	:ded:
 	
@@ -43,7 +43,7 @@
 		
 		- Notes: You are *NOT* the imposter.
 
-* ### <img src="/Emojis/devito.png" alt="devito" width="75"/> Devito:
+* ### <img src="/Emojis/devito.png" alt="devito" width="50"/> Devito:
 
 	:devito:
 	
@@ -51,7 +51,7 @@
 		
 		- Notes: Wants to be PURE
 
-* ### <img src="/Emojis/dildo.png" alt="dildo" width="75"/> Dildo:
+* ### <img src="/Emojis/dildo.png" alt="dildo" width="50"/> Dildo:
 
 	:dildo:
 	
@@ -59,7 +59,7 @@
 		
 		- Notes: Very rainbow-y
 
-* ### <img src="/Emojis/dispair.jpg" alt="dispair" width="75"/> Dispair:
+* ### <img src="/Emojis/dispair.jpg" alt="dispair" width="50"/> Dispair:
 
 	:dispair:
 	
@@ -97,7 +97,7 @@
 
 ## S
 
-* ### <img src="/Emojis/sus.png" alt="sus" width="75"/> Sus:
+* ### <img src="/Emojis/sus.png" alt="sus" width="50"/> Sus:
 
 	:sus:
 	
