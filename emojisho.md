@@ -47,7 +47,7 @@
 		
 		- Notes: Very rainbow-y
 
-* ### ![dispair](/Emojis/dispair.png)  Dispair:
+* ### ![dispair](/Emojis/dispair.jpg)  Dispair:
 	
 	A cat in great distress. Used when sad things are said
 		
