@@ -37,7 +37,7 @@
 ## R
 
 ## S
-* ###Sus:
+* ### Sus:
 	
 	![sus](/Emojis/sus.png)  
 	
