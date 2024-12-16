@@ -8,6 +8,8 @@ structure below, paste it into the [emojisho dictionary](./emojisho.md) and fill
 Please try and keep it in alphabetical order.
 
 
-* {NAME}
-	![{IMAGENAME}](/Emojis/FILENAME): {DESCRIPTION}
-		- Notes: {ADDITIONAL NOTES}
+* ### ![{NAME}](/Emojis/{FILENAME})  {NAME}:
+	
+	{DESCRIPTION}
+		
+		- Notes: {NOTES}
