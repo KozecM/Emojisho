@@ -8,7 +8,9 @@ structure below, paste it into the [emojisho dictionary](./emojisho.md) and fill
 Please try and keep it in alphabetical order.
 
 
-* ### ![{NAME}](/Emojis/{FILENAME})  {NAME}:
+* ### <img src="/Emojis/{FILE_NAME}" alt="{NAME}" width="75"/>  {NAME}:
+
+	:{discord_call}:
 	
 	{DESCRIPTION}
 		
