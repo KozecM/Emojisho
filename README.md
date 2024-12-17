@@ -14,7 +14,7 @@ Please try and keep it in alphabetical order.
 	
 	{DESCRIPTION}
 		
-		- Notes: {NOTES}
+	- Notes: {NOTES}
 
 
 NOTES:
