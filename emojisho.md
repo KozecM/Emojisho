@@ -151,9 +151,7 @@
 	
 	A man on a kayak having a great time.
 		
-	- Notes: 
-
-		* <a href="https://www.youtube.com/watch?v=IGMabBGydC0">ONMAWAY</a>
+	- Notes: <a href="https://www.youtube.com/watch?v=IGMabBGydC0">ONMAWAY</a>
 
 * ### <img src="/Emojis/surprised_obama.png" alt="surprised obama" width="75"/>  Surprised Obama:
 
