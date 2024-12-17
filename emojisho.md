@@ -129,7 +129,7 @@
 	
 	He's no outlaw and he won't quickdraw, for he despises violence.
 		
-		- Notes: [Video](https://www.youtube.com/watch?v=4iTAkRHGbuM)
+		- Notes: <a href="https://www.youtube.com/watch?v=4iTAkRHGbuM">Da Cowboy</a>
 
 ## Q
 
@@ -141,7 +141,7 @@
 	
 	Don't click on links you dont recognize. Unless you love Rick Astley of course
 		
-		- Notes: [Shady Link](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+		- Notes: <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ)">Shady Link</a>
 
 ## S
 
@@ -151,7 +151,9 @@
 	
 	A man on a kayak having a great time.
 		
-		- Notes: [ONMAWAY](https://www.youtube.com/watch?v=IGMabBGydC0)
+		- Notes: 
+
+			* <a href="https://www.youtube.com/watch?v=IGMabBGydC0">ONMAWAY</a>
 
 * ### <img src="/Emojis/surprised_obama.png" alt="surprised obama" width="75"/>  Surprised Obama:
 
