@@ -10,7 +10,7 @@
 
 	A can of beans fallen over used usually when beans are mentioned.
 		
-		- Notes: BEANS
+	- Notes: BEANS
 
 * ### <img src="/Emojis/birthday_boy.png" alt="Birthday Boy" width="75"/>  Birthday Boy:
 
@@ -18,7 +18,7 @@
 	
 	Happy Birthday! Here is a happy little guy as a present!
 		
-		- Notes: Cannot be returned or exchanged.
+	- Notes: Cannot be returned or exchanged.
 
 * ### <img src="/Emojis/boris_sucks.png" alt="Boris Sucks" width="50"/> Boris Sucks:
 	
@@ -26,7 +26,7 @@
 
 	A picture of boris either scared or suprised. Usually used for excitement.
 		
-		- Notes: Boris does in fact suck
+	- Notes: Boris does in fact suck
 
 ## C
 
@@ -38,10 +38,10 @@
 
 	Da wae. Used usually on self when something quite dumb has been said.
 		
-		- Notes: 
+	- Notes: 
 
-			* Do you know da wae? 
-			* Originally from Who Killed Captain Alex. Popularized on VRchat
+		* Do you know da wae? 
+		* Originally from Who Killed Captain Alex. Popularized on VRchat
 
 * ### <img src="/Emojis/ded.png" alt="ded" width="50"/> Ded:
 	
@@ -57,7 +57,7 @@
 	
 	Famous actor Danny Devito. Not to be confused with famous car Vanny Devito
 		
-		- Notes: Wants to be PURE
+	- Notes: Wants to be PURE
 
 * ### <img src="/Emojis/dildo.png" alt="dildo" width="50"/> Dildo:
 
@@ -73,7 +73,7 @@
 	
 	A cat in great distress. Used when sad things are said
 		
-		- Notes: Vewwy Sayud
+	- Notes: Vewwy Sayud
 
 ## E
 
@@ -87,7 +87,7 @@
 	
 	Great scott! Used for surprise.
 		
-		- Notes: From Back to the Future.
+	- Notes: From Back to the Future.
 
 ## H
 
@@ -97,7 +97,7 @@
 	
 	A drawing of a man giving a thumbs up to the Bass Pro Shop Pyramid.
 		
-		- Notes: It's a pretty good pyramid.
+	- Notes: It's a pretty good pyramid.
 
 ## I
 
@@ -115,7 +115,7 @@
 	
 	A drawing of Maxx. Used mainly by Maxx
 		
-		- Notes: Maxx is underpaid.
+	- Notes: Maxx is underpaid.
 
 ## N
 
@@ -129,7 +129,7 @@
 	
 	He's no outlaw and he won't quickdraw, for he despises violence.
 		
-		- Notes: <a href="https://www.youtube.com/watch?v=4iTAkRHGbuM">Da Cowboy</a>
+	- Notes: <a href="https://www.youtube.com/watch?v=4iTAkRHGbuM">Da Cowboy</a>
 
 ## Q
 
@@ -141,7 +141,7 @@
 	
 	Don't click on links you dont recognize. Unless you love Rick Astley of course
 		
-		- Notes: <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ)">Shady Link</a>
+	- Notes: <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ)">Shady Link</a>
 
 ## S
 
@@ -151,9 +151,9 @@
 	
 	A man on a kayak having a great time.
 		
-		- Notes: 
+	- Notes: 
 
-			* <a href="https://www.youtube.com/watch?v=IGMabBGydC0">ONMAWAY</a>
+		* <a href="https://www.youtube.com/watch?v=IGMabBGydC0">ONMAWAY</a>
 
 * ### <img src="/Emojis/surprised_obama.png" alt="surprised obama" width="75"/>  Surprised Obama:
 
@@ -161,10 +161,10 @@
 	
 	Obama is very surpised. Used when he is surprised
 		
-		- Notes: 
+	- Notes: 
 
-			* *Very* surprised.
-			* No longer president.
+		* *Very* surprised.
+		* No longer president.
 
 * ### <img src="/Emojis/sus.png" alt="sus" width="50"/> Sus:
 
@@ -172,7 +172,7 @@
 	
 	The word sus used for when something is suspicious
 		
-		- Notes: Originated from the game Among Us
+	- Notes: Originated from the game Among Us
 
 
 ## T
@@ -183,7 +183,7 @@
 	
 	Trumps big-ole chin okay?
 		
-		- Notes: Big chin, Small hands.
+	- Notes: Big chin, Small hands.
 
 ## U
 
