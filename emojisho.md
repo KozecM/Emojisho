@@ -12,6 +12,14 @@
 		
 		- Notes: BEANS
 
+* ### <img src="/Emojis/birthday_boy.png" alt="Birthday Boy" width="75"/>  Birthday Boy:
+
+	:birthday_boy:
+	
+	Happy Birthday! Here is a happy little guy as a present!
+		
+		- Notes: Cannot be returned or exchanged.
+
 * ### <img src="/Emojis/boris_sucks.png" alt="Boris Sucks" width="50"/> Boris Sucks:
 	
 	:boris_sucks:
@@ -127,7 +135,23 @@
 
 ## R
 
+* ### <img src="/Emojis/RickAstley.png" alt="Rick Astley" width="75"/>  Rick Astley:
+
+	:RickAstley:
+	
+	Don't click on links you dont recognize. Unless you love Rick Astley of course
+		
+		- Notes: [Shady Link](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+
 ## S
+
+* ### <img src="/Emojis/SendMeOnMyWay.png" alt="Send Me On My Way" width="75"/>  Send Me On My Way:
+
+	:SendMeOnMyWay:
+	
+	A man on a kayak having a great time.
+		
+		- Notes: [ONMAWAY](https://www.youtube.com/watch?v=IGMabBGydC0)
 
 * ### <img src="/Emojis/surprised_obama.png" alt="surprised obama" width="75"/>  Surprised Obama:
 
