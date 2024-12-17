@@ -117,6 +117,14 @@
 		
 	- Notes: Maxx is underpaid.
 
+* ### <img src="/Emojis/Mushroom_head.png" alt="Mushroom Head" width="75"/>  Mushroom Head:
+
+	:Mushroom_head:
+	
+	His head is a mushroom and he has no idea what is goin on.
+		
+	- Notes: None, he's perfect
+
 ## N
 
 ## O
@@ -149,9 +157,11 @@
 
 	:SendMeOnMyWay:
 	
-	A man on a kayak having a great time.
+	Jack on a kayak having a great time.
 		
-	- Notes: <a href="https://www.youtube.com/watch?v=IGMabBGydC0">ONMAWAY</a>
+	- Notes: 
+		* <a href="https://www.youtube.com/watch?v=IGMabBGydC0">ONMAWAY</a>
+		* Might have taken shrooms (See: Mushroom Head)
 
 * ### <img src="/Emojis/surprised_obama.png" alt="surprised obama" width="75"/>  Surprised Obama:
 
@@ -194,4 +204,12 @@
 ## Y
 
 ## Z
+
+* ### <img src="/Emojis/Zula_happy.png" alt="Zula Happy" width="75"/>  Zula Happy:
+
+	:Zula_happy:
+	
+	Happy girl get her tennis ball thrown
+		
+	- Notes: Who's a good girl! You are!
 
