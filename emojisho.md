@@ -6,7 +6,7 @@
 
 * ### <img src="/Emojis/beans.png" alt="beans" width="50"/>  Beans:
 	
-	':beans:'
+	":beans:"
 
 	A can of beans fallen over used usually when beans are mentioned.
 		
@@ -35,7 +35,7 @@
 			* Do you know da wae? 
 			* Originally from Who Killed Captain Alex. Popularized on VRchat
 
-* ### <img src="/Emojis/ded.png" alt="ded" width="50"/>! Ded:
+* ### <img src="/Emojis/ded.png" alt="ded" width="50"/> Ded:
 	
 	:ded:
 	
@@ -73,7 +73,23 @@
 
 ## G
 
+* ### <img src="/Emojis/great-scott.png" alt="Great Scott" width="75"/>  Great Scott:
+
+	:great_scott:
+	
+	Great scott! Used for surprise.
+		
+		- Notes: From Back to the Future.
+
 ## H
+
+* ### <img src="/Emojis/Hunting-Pyramid.png" alt="hunting pyramid" width="75"/>  Hunting Pyramid:
+
+	:hunting_pyramid:
+	
+	A drawing of a man giving a thumbs up to the Bass Pro Shop Pyramid.
+		
+		- Notes: It's a pretty good pyramid.
 
 ## I
 
@@ -85,17 +101,44 @@
 
 ## M
 
+* ### <img src="/Emojis/Maxx_emoji.png" alt="Maxx" width="75"/>  Maxx:
+
+	:Underpaid:
+	
+	A drawing of Maxx. Used mainly by Maxx
+		
+		- Notes: Maxx is underpaid.
+
 ## N
 
 ## O
 
 ## P
 
+* ### <img src="/Emojis/Pumpkin_cowboy.png" alt="Pumpkin Cowboy" width="75"/>  Pumkpin Cowboy:
+
+	:Pumpkin_cowboy:
+	
+	He's no outlaw and he won't quickdraw, for he despises violence.
+		
+		- Notes: [Video](https://www.youtube.com/watch?v=4iTAkRHGbuM)
+
 ## Q
 
 ## R
 
 ## S
+
+* ### <img src="/Emojis/surprised_obama.png" alt="surprised obama" width="75"/>  Surprised Obama:
+
+	:surprised_obama:
+	
+	Obama is very surpised. Used when he is surprised
+		
+		- Notes: 
+
+			* *Very* surprised.
+			* No longer president.
 
 * ### <img src="/Emojis/sus.png" alt="sus" width="50"/> Sus:
 
@@ -107,6 +150,14 @@
 
 
 ## T
+
+* ### <img src="/Emojis/trump_chin.png" alt="Trump Chin" width="75"/>  Trump Chin:
+
+	:trump_chin:
+	
+	Trumps big-ole chin okay?
+		
+		- Notes: Big chin, Small hands.
 
 ## U
 

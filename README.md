@@ -15,3 +15,9 @@ Please try and keep it in alphabetical order.
 	{DESCRIPTION}
 		
 		- Notes: {NOTES}
+
+
+NOTES:
+
+* If the name of the new emoji is an existing one put quotes aruond the discord call so it shows the call correctly. 
+* if you want to add multiple points to notes use the asterix "*" tabbed in once on a new line: Look at Da Wae for more info.
